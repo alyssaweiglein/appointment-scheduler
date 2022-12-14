@@ -1,0 +1,25 @@
+[2021-09-30T21:46:26.377859100] 	Log file created
+[2021-09-30T21:53:26.535188100] 	[username: test] 	login SUCCESS
+[2021-09-30T21:53:53.744449200] 	[username: test] 	login FAIL
+[2021-09-30T21:57:19.871901600] 	[username: test] 	login SUCCESS
+[2021-09-30T21:58:47.161616200] 	[username: test] 	login SUCCESS
+[2022-12-13T21:57:42.140138500] 	[username: sqlUser] 	login FAIL
+[2022-12-13T21:57:48.467525] 	[username: test] 	login SUCCESS
+[2022-12-13T21:58:27.302009200] 	[username: test] 	login SUCCESS
+[2022-12-14T09:06:26.644165400] 	[username: test] 	login SUCCESS
+[2022-12-14T10:22:07.585251100] 	[username: test] 	login SUCCESS
+[2022-12-14T10:24:20.544221400] 	[username: test] 	login SUCCESS
+[2022-12-14T10:25:35.280851600] 	[username: test] 	login SUCCESS
+[2022-12-14T10:28:05.680421400] 	[username: test] 	login SUCCESS
+[2022-12-14T10:43:04.785601300] 	[username: test] 	login SUCCESS
+[2022-12-14T10:48:10.975063900] 	[username: test] 	login FAIL
+[2022-12-14T10:48:15.315892] 	[username: test] 	login SUCCESS
+[2022-12-14T10:58:22.691710200] 	[username: test] 	login SUCCESS
+[2022-12-14T11:07:05.946487] 	[username: test] 	login SUCCESS
+[2022-12-14T11:16:40.173682600] 	[username: test] 	login FAIL
+[2022-12-14T11:16:42.428144200] 	[username: test] 	login SUCCESS
+[2022-12-14T11:17:14.844975300] 	[username: test] 	login SUCCESS
+[2022-12-14T11:24:28.566276] 	[username: test] 	login SUCCESS
+[2022-12-14T11:27:33.775903500] 	[username: test] 	login SUCCESS
+[2022-12-14T11:31:02.479903900] 	[username: test] 	login FAIL
+[2022-12-14T11:31:05.299925200] 	[username: test] 	login SUCCESS
